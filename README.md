@@ -9,10 +9,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasPereiraMiranda/sentiment-detection-with-sentistrength">
   </a>
 
-  <a href="https://github.com/LucasPereiraMiranda/sentiment-detection-with-sentistrength/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/LucasPereiraMiranda/sentiment-detection-with-sentistrength">
-  </a>
-
   <a href="https://github.com/LucasPereiraMiranda/sentiment-detection-with-sentistrength/issues-pr/">
     <img alt="Repository Pull Request" src="https://img.shields.io/github/issues-pr/LucasPereiraMiranda/sentiment-detection-with-sentistrength">
   </a>
