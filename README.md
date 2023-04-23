@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="justify"> Repositório para trazer Exemplo de uso do algoritmo Sentistrength para análise de sentimentos no contexto do português do Brasil. 
+<p align="justify"> Repositório para estudar e usar o algoritmo Sentistrength para análise de sentimentos no contexto do português do Brasil. 
 </p>
 
 ## Techs
