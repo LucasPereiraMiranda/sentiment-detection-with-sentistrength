@@ -101,4 +101,6 @@ Instale as dependências necessárias no seu ambiente python3 (ou virtualenv)
 
 ## Resultados dos testes de análise de sentimentos
 
-<img alt="Results" title="#results" src=".github/results.png" width="600px" />
+<div display="flex" align-items="center" justify-content="center">
+  <img alt="Results" title="#results" src=".github/results.png" width="600px" />
+</div>
