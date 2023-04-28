@@ -55,7 +55,7 @@ Scores resultantes:
 
 ## Como fazer a análise?
 
-Instale as dependências necessárias no seu ambiente python3 (ou virtualenv)
+Podemos instalar as dependências necessárias no seu ambiente python3 (ou virtualenv)
 
 - requiriments.txt possui as dependências básicas necessárias para o projeto
 
