@@ -109,3 +109,4 @@ Podemos instalar as dependências necessárias no seu ambiente python3 (ou virtu
 ## Referências
 
 - [SentiStrength.uk](http://sentistrength.wlv.ac.uk/)
+- [Métodos para Análise de Sentimentos em mídias sociais](https://homepages.dcc.ufmg.br/~fabricio/download/webmedia-short-course.pdf)
