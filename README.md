@@ -110,3 +110,4 @@ Podemos instalar as dependências necessárias no seu ambiente python3 (ou virtu
 
 - [SentiStrength.uk](http://sentistrength.wlv.ac.uk/)
 - [Métodos para Análise de Sentimentos em mídias sociais](https://homepages.dcc.ufmg.br/~fabricio/download/webmedia-short-course.pdf)
+- [Uma Abordagem Multilíngue para Analise de Sentimentos](https://homepages.dcc.ufmg.br/~fabricio/download/brasnam15-multi.pdf)
