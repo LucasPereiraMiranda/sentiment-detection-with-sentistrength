@@ -104,3 +104,8 @@ Podemos instalar as dependências necessárias no seu ambiente python3 (ou virtu
 <div display="flex" align-items="center" justify-content="center">
   <img alt="Results" title="#results" src=".github/results.png" width="600px" />
 </div>
+
+
+## Referências
+
+- [SentiStrength.uk](http://sentistrength.wlv.ac.uk/)
